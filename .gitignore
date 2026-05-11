@@ -3,3 +3,5 @@ __pycache__
 .env
 kuppam.db
 authentication.py 
+students.db
+inspect_db.py
